@@ -1,19 +1,19 @@
 # Banana Tycoon Website
 
-A public-facing website for Banana Tycoon, designed to support the product with key customer-facing pages and legal content.
+A public-facing website for Banana Tycoon, plus supporting privacy and data protection pages for another mobile app in development: Finance Skills.
 
-This repository hosts the website experience for the Banana Tycoon product, including support and compliance information such as privacy policies and related public-facing pages.
+This repository hosts the public web presence for active product work, including product information, privacy policy content, and data protection documentation for apps that are either live or preparing for launch.
 
 ## Overview
 
 - Public website for Banana Tycoon
-- Hosts product-facing information and legal documentation
-- Lightweight static site for quick deployment and maintenance
-- Designed to support the mobile product experience with clean, accessible web content
+- Privacy and data protection pages for apps in development and launch preparation
+- Lightweight static site for rapid deployment and simple maintenance
+- Designed to support product information and compliance content without adding complexity to the app itself
 
 ## Purpose
 
-This project gives the product a simple, professional public web presence without adding complexity to the core app itself. It keeps marketing, legal, and informational content separate from the game/app experience while remaining easy to manage and update.
+This project gives the products a clean, professional public-facing web presence. It keeps legal, support, and informational content separate from the app experience while remaining easy to maintain, update and extend as the products evolve.
 
 ## Tech stack
 
@@ -22,12 +22,16 @@ This project gives the product a simple, professional public web presence withou
 - HTML / CSS
 - Markdown
 
-## Role in the product
+## Role in the product portfolio
 
-This repository complements the Banana Tycoon product by providing a clear, public-facing layer for product information, privacy policies, and supporting content.
+This repository complements the product work by providing a clear public-facing layer for:
+
+- Banana Tycoon product information and website content
+- Privacy policy and data protection information
+- Supporting documentation for pre-launch and live product compliance needs
 
 ## Status
 
 - Active
 - Lightweight and low-maintenance
-- Optimised for simple product support and compliance publishing
+- Optimised for simple compliance publishing and product support content
